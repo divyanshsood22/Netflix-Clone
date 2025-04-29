@@ -28,4 +28,4 @@ This project is a part of my personal portfolio showcasing front-end development
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/netflix-clone.git
+git clone https://github.com/divyanshsood22/netflix-clone.git
